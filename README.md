@@ -24,18 +24,21 @@
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### I am a full-stack Web Developer
+<br/><br/>
+
 - 🔭 I’m currently working on my Portfolio Website :grin:
-- 🌱 I’m currently learning MERN Stack Development.
+- 🌱 I’m currently learning .Net and python Stack Development.
 - 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2020 Goals: Contribute to Open Source projects
+- 🥅 2021 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][linkedin]
+- 📬 How to reach me: [Let's get in touch!][Instagram]
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
 
 <br>
 
 ### Languages and Tools: 
+<br/><br/>
 
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -84,21 +87,23 @@
 
 
 
-<!-- stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=dark)
-![Sumanth's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth-Talluri&show_icons=true&hide_border=true")-->
+<!--stats-->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=meyashjoshi&show_icons=true&hide_border=true&theme=dark)
+![Yash's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=meyashjoshi&show_icons=true&hide_border=true")
 
-<!-- repos
-<a href="https://github.com/Sumanth-Talluri/Readers-Cabin">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanth-Talluri&repo=Readers-Cabin&theme=dark" />
+### :zap: Github Repos
+
+No Repos avelible now 
+<!--<a href="https://github.com/meyashjoshi/Readers-Cabin">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=meyashjoshi&repo=Readers-Cabin&theme=dark" />
 </a>
 <a href="https://github.com/Sumanth-Talluri/JPMorgan-Chase-Virtual-Internship">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanth-Talluri&repo=JPMorgan-Chase-Virtual-Internship&theme=dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=meyashjoshi&repo=JPMorgan-Chase-Virtual-Internship&theme=dark" />
 </a>
 <a href="https://github.com/Sumanth-Talluri/Python-for-Everybody-Specialization">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanth-Talluri&repo=Python-for-Everybody-Specialization&theme=dark" />
-</a>
--->
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=meyashjoshi&repo=Python-for-Everybody-Specialization&theme=dark" />
+</a>-->
+
 
 <br/><br/><br/><br/><br/>
 
@@ -159,7 +164,7 @@
 
 | | | | |
 | --- | --- | --- | --- |
-|Python                   |10 repos|            ![](https://via.placeholder.com/224x22/000000/000000?text=+)![](https://via.placeholder.com/176x22/b8b8b8/b8b8b8?=text=+)|55.56%|
+|.Net C#                   |10 repos|            ![](https://via.placeholder.com/224x22/000000/000000?text=+)![](https://via.placeholder.com/176x22/b8b8b8/b8b8b8?=text=+)|55.56%|
 |HTML                     |7 repos|             ![](https://via.placeholder.com/156x22/000000/000000?text=+)![](https://via.placeholder.com/244x22/b8b8b8/b8b8b8?=text=+)|38.89%|
 |JavaScript               |1 repos|             ![](https://via.placeholder.com/24x22/000000/000000?text=+)![](https://via.placeholder.com/376x22/b8b8b8/b8b8b8?=text=+)|5.56%|
 | | | | |
@@ -173,11 +178,11 @@
 </div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
 
 <!--[website]: -->
-[twitter]: https://twitter.com/sumanth_98?s=09
-<!--[youtube]: https://www.youtube.com/channel/UC40R8Rvwjhu08Z0MFffNfsg-->
-[instagram]: https://instagram.com/the.cs.geek?igshid=1mamru7aa53b2
-[linkedin]: https://www.linkedin.com/in/tv-sai-sumanth-3b7811141/
+[twitter]: https://twitter.com/meyashjoshi
+[youtube]: https://www.youtube.com/channel/meyashjoshi
+[instagram]: https://instagram.com/meyashjoshi
+[linkedin]: https://www.linkedin.com/in/meyashjoshi
 -----
-Credits: [SumanthTalluri](https://github.com/Sumanth-Talluri)
+Credits: [MeYashjosji](https://github.com/MeYashjoshi)
 
-Last Edited on: 12/12/2020
+Last Edited on: Thu, Jul 29
