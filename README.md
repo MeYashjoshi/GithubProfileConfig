@@ -79,11 +79,27 @@
 </details> -->
 
 
+
 ### :zap: Github Stats
 
-  <img align="left" src="https://github-readme-stats.meyashjoshi.vercel.app/api?username=meyashjoshi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Yash's Github Stats" width="60%">
+
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=RahulMahesh62&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=32" width="60%">
   
-<img src="https://github-readme-stats.meyashjoshi.vercel.app/api/top-langs/?username=meyashjoshi&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Yash's Top Languages">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=rahulmahesh62&" width="37%" >
+  </p>
+ 
+
+
+
+
+
+
+
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=meyashjoshi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Yash's Github Stats" width="60%">
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meyashjoshi&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Yash's Top Languages">
 
 
 
