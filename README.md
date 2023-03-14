@@ -93,15 +93,15 @@
 ### :zap: Github Repos
 
 No Repos avelible now 
-<!--<a href="https://github.com/meyashjoshi/Readers-Cabin">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=meyashjoshi&repo=Readers-Cabin&theme=dark" />
+<a href="https://github.com/meyashjoshi/Personal_CV">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=meyashjoshi&repo=Personal_CV&theme=dark" />
 </a>
 <a href="https://github.com/Sumanth-Talluri/JPMorgan-Chase-Virtual-Internship">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=meyashjoshi&repo=JPMorgan-Chase-Virtual-Internship&theme=dark" />
 </a>
 <a href="https://github.com/Sumanth-Talluri/Python-for-Everybody-Specialization">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=meyashjoshi&repo=Python-for-Everybody-Specialization&theme=dark" />
-</a>-->
+</a>
 
 
 <br/><br/><br/><br/><br/>
@@ -182,6 +182,6 @@ No Repos avelible now
 [instagram]: https://instagram.com/meyashjoshi
 [linkedin]: https://www.linkedin.com/in/meyashjoshi
 -----
-Credits: [MeYashjosji](https://github.com/MeYashjoshi)
+Credits: [MeYashjoshi](https://github.com/MeYashjoshi)
 
 Last Edited on: Thu, Jul 29
