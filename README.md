@@ -80,11 +80,11 @@ No Repos avelible now
 <a href="https://github.com/meyashjoshi/Personal_CV">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=meyashjoshi&repo=Personal_CV&theme=dark" />
 </a>
-<a href="https://github.com/Sumanth-Talluri/JPMorgan-Chase-Virtual-Internship">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=meyashjoshi&repo=JPMorgan-Chase-Virtual-Internship&theme=dark" />
+<a href="https://github.com/meyashjoshi/Live_Personal_Portfolio">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=meyashjoshi&repo=Live_Personal_Portfolio&theme=dark" />
 </a>
-<a href="https://github.com/Sumanth-Talluri/Python-for-Everybody-Specialization">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=meyashjoshi&repo=Python-for-Everybody-Specialization&theme=dark" />
+<a href="https://github.com/meyashjoshi/ColorPredictionGame">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=meyashjoshi&repo=ColorPredictionGame&theme=dark" />
 </a>
 
 
