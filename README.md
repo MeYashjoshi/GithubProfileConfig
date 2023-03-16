@@ -77,7 +77,7 @@
 ### :zap: Github Repos
 
 No Repos avelible now 
-<a href="https://github.com/meyashjoshi/Personal_CV">
+<!--<a href="https://github.com/meyashjoshi/Personal_CV">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=meyashjoshi&repo=Personal_CV&theme=dark" />
 </a>
 <a href="https://github.com/meyashjoshi/Live_Personal_Portfolio">
@@ -85,7 +85,7 @@ No Repos avelible now
 </a>
 <a href="https://github.com/meyashjoshi/ColorPredictionGame">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=meyashjoshi&repo=ColorPredictionGame&theme=dark" />
-</a>
+</a>-->
 
 
 <br/><br/><br/><br/><br/>
